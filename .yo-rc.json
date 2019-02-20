@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "OnlineShop",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "YjFmZmNkMmU2OTUyMGE5YmVjOTlhZWNjYmJmMGNlOWQ2YWZkODEzMTYwYjAxNmQwMjQ4NzE0ODJjYjdmZDQ2NTEyZDA4Mjg2MDY3N2UzOTczM2E0YWVlNzA1ZjEwYTI4YmI3MDEwOTRlMjNiMjE3M2MwYTU3OTg5MmIyNmY0NzA=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ggtr1138",
+  "repository-name": "jhipster-online-shop"
+}
